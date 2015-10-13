@@ -1,0 +1,2 @@
+defmodule Maxi do
+end
