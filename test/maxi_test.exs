@@ -8,7 +8,7 @@ defmodule MaxiTest do
   end
 
   test "given 5 and 3, the answer should be 5" do
-  	assert Maxi.max(5, 3) == 5
+  	assert Maxi.max(5, 5) == 5
   end
 
 end

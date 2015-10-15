@@ -3,8 +3,7 @@ defmodule Maxi do
 		if a > b do
 		 a
 		else
-			b
+		b
 		end
-
 	end
 end
